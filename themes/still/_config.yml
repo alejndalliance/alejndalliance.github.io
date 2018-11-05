@@ -1,0 +1,13 @@
+menu:
+    Home: /
+    Archive: /archives/
+    GITHUB: https://github.com/alejndalliance/
+
+title: AleJnd Alliance
+description: official blog
+
+favicon: /favicon.ico
+
+
+# Copyright Infomation
+startyear: 2018
